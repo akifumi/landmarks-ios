@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E4C261F22A82BCC008B8D69 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C261E22A82BCC008B8D69 /* MapView.swift */; };
 		6EB0129A22A7997900315A07 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB0129922A7997900315A07 /* AppDelegate.swift */; };
 		6EB0129C22A7997900315A07 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB0129B22A7997900315A07 /* SceneDelegate.swift */; };
 		6EB0129E22A7997900315A07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB0129D22A7997900315A07 /* ContentView.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E4C261E22A82BCC008B8D69 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		6EB0129622A7997900315A07 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EB0129922A7997900315A07 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6EB0129B22A7997900315A07 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				6EB012A722A7997B00315A07 /* Info.plist */,
 				6EB012A122A7997B00315A07 /* Preview Content */,
 				6ECEFDD822A7FA230071E9FC /* CircleImage.swift */,
+				6E4C261E22A82BCC008B8D69 /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				6EB0129A22A7997900315A07 /* AppDelegate.swift in Sources */,
 				6ECEFDD922A7FA230071E9FC /* CircleImage.swift in Sources */,
+				6E4C261F22A82BCC008B8D69 /* MapView.swift in Sources */,
 				6EB0129C22A7997900315A07 /* SceneDelegate.swift in Sources */,
 				6EB0129E22A7997900315A07 /* ContentView.swift in Sources */,
 			);
