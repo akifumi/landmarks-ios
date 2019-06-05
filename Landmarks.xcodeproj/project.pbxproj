@@ -15,6 +15,7 @@
 		6EB012A622A7997B00315A07 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EB012A422A7997B00315A07 /* LaunchScreen.storyboard */; };
 		6EB012B122A7997C00315A07 /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB012B022A7997C00315A07 /* LandmarksTests.swift */; };
 		6EB012BC22A7997C00315A07 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EB012BB22A7997C00315A07 /* LandmarksUITests.swift */; };
+		6ECEFDD922A7FA230071E9FC /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECEFDD822A7FA230071E9FC /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6EB012B722A7997C00315A07 /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EB012BB22A7997C00315A07 /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		6EB012BD22A7997C00315A07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ECEFDD822A7FA230071E9FC /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6EB012A422A7997B00315A07 /* LaunchScreen.storyboard */,
 				6EB012A722A7997B00315A07 /* Info.plist */,
 				6EB012A122A7997B00315A07 /* Preview Content */,
+				6ECEFDD822A7FA230071E9FC /* CircleImage.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6EB0129A22A7997900315A07 /* AppDelegate.swift in Sources */,
+				6ECEFDD922A7FA230071E9FC /* CircleImage.swift in Sources */,
 				6EB0129C22A7997900315A07 /* SceneDelegate.swift in Sources */,
 				6EB0129E22A7997900315A07 /* ContentView.swift in Sources */,
 			);
